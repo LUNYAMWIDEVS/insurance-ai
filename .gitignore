@@ -36,6 +36,7 @@ npm-debug.log
 /insuranceai-venv/
 /venv/
 /env/
+env/
 /output/
 /cache/
 boilerplate.zip
